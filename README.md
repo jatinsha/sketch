@@ -20,14 +20,17 @@ Some of them may be already available while the others may require installation 
 - google.protobuf.message
 - typing
 
-* Required if you need LuaTorch kernel
+
+(Required if you need LuaTorch kernel)
 - PyTorch (This is a wraper around LuaTorch/torch7 for Python and not the official pytorch)
 - PyTorchAug 
 
-* Required if you need PyTorch kernel
+
+(Required if you need PyTorch kernel)
 - torch
 
-* Required if you need ONNX kernel
+
+(Required if you need ONNX kernel)
 - onnx
 
 
